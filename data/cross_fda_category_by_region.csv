@@ -1,0 +1,91 @@
+region,category,count
+Ashanti,Drug,28
+Ashanti,Fats And,1
+Ashanti,Fish And,2
+Ashanti,Food,260
+Ashanti,Soups And,2
+Ashanti,Spices And,2
+Ashanti,Sugar And,2
+Ashanti,Vegetables And,3
+Ashanti,Water,27
+Brong Ahafo,Drug,1
+Brong Ahafo,Food,126
+Brong Ahafo,Root And,2
+Brong Ahafo,Soups And,4
+Brong Ahafo,Sugar And,3
+Brong Ahafo,Vegetables And,1
+Brong Ahafo,Water,16
+Central,Drug,17
+Central,Fats And,1
+Central,Food,157
+Central,Meat And,2
+Central,Meats And,1
+Central,Roots And,5
+Central,Soups And,6
+Central,Spice And,1
+Central,Spices And,3
+Central,Vegetables And,1
+Central,Water,16
+Eastern,Cosmetic,5
+Eastern,Drug,10
+Eastern,Fats And,1
+Eastern,Food,266
+Eastern,Root And,1
+Eastern,Roots And,1
+Eastern,Soups And,4
+Eastern,Spices And,5
+Eastern,Sugar And,1
+Eastern,Vegetables And,1
+Eastern,Water,14
+Greater Accra,Drug,19
+Greater Accra,Fats And,19
+Greater Accra,Fish And,10
+Greater Accra,Food,1997
+Greater Accra,Meat And,3
+Greater Accra,Pom,1
+Greater Accra,Root And,18
+Greater Accra,Roots And,13
+Greater Accra,Soups And,25
+Greater Accra,Spice And,1
+Greater Accra,Spices And,41
+Greater Accra,Sugar And,23
+Greater Accra,Vegetables And,38
+Greater Accra,Water,21
+Northern,Cosmetic,11
+Northern,Drug,1
+Northern,Fats And,1
+Northern,Food,83
+Northern,Soups And,1
+Northern,Spice And,2
+Northern,Sugar And,3
+Northern,Vegetables And,3
+Northern,Water,9
+Upper East,Food,53
+Upper East,Spices And,1
+Upper East,Sugar And,1
+Upper East,Vegetables And,2
+Upper East,Water,9
+Upper West,Drug,2
+Upper West,Food,29
+Upper West,Roots And,1
+Upper West,Spices And,2
+Upper West,Sugar And,2
+Upper West,Water,4
+Volta,Drug,1
+Volta,Fats And,1
+Volta,Food,111
+Volta,Root And,2
+Volta,Spices And,1
+Volta,Sugar And,1
+Volta,Water,8
+Western,Cosmetic,1
+Western,Drug,9
+Western,Fats And,2
+Western,Fish And,2
+Western,Food,90
+Western,Root And,2
+Western,Roots And,2
+Western,Soups And,2
+Western,Sugar And,1
+Western,Vegetables And,4
+Western,Water,25

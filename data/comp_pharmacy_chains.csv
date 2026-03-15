@@ -1,0 +1,436 @@
+company_norm,total_outlets,regions_count,mmdas_count,wholesale_outlets,retail_outlets,regions_list
+Ernest Chemists Limited,60,8,16,35,25,"Ashanti, Brong Ahafo, Central, Eastern, Greater Accra, Northern, Volta, Western"
+Scab Pharmacy Limited,25,2,15,8,17,"Ashanti, Brong Ahafo"
+Unicom Chemist Limited,24,2,9,19,5,"Ashanti, Greater Accra"
+East Cantonments Pharmacy,18,3,7,8,10,"Ashanti, Brong Ahafo, Greater Accra"
+Top-Up Pharmacy Limited,15,5,7,2,13,"Ashanti, Central, Eastern, Greater Accra, Volta"
+Bedita Pharmacy,15,5,7,10,5,"Ashanti, Central, Greater Accra, Northern, Western"
+Pharmatrust Pharmacy,11,3,6,7,4,"Central, Greater Accra, Western"
+Brobbson Pharmacy Limited,10,1,2,3,7,Greater Accra
+Kinapharma Limited,9,4,4,8,1,"Ashanti, Greater Accra, Northern, Western"
+Panacea Pharmacy Limited,9,3,6,3,6,"Ashanti, Greater Accra, Northern"
+Origin Chemist Limited,8,1,5,1,7,Greater Accra
+Baseline Pharmaceuticals Limited,8,7,7,8,0,"Brong Ahafo, Central, Eastern, Greater Accra, Northern, Upper West, Western"
+Medcourt Pharmacy Limited,8,2,6,4,4,"Ashanti, Brong Ahafo"
+Dosty Pharmacy,7,1,3,1,6,Greater Accra
+Tobinco Pharmacy,7,4,4,5,2,"Ashanti, Greater Accra, Volta, Western"
+Add Pharma Gh Limited,7,2,6,2,5,"Ashanti, Greater Accra"
+Life Chemist Limited,6,2,2,1,5,"Ashanti, Greater Accra"
+Osons Chemist Limited,6,2,2,5,1,"Ashanti, Greater Accra"
+Care View Pharmacy Limited,6,1,4,1,5,Greater Accra
+Medimart Pharmacy Limited,6,1,3,0,6,Greater Accra
+Pillpoint Pharmacy,6,2,3,2,4,"Ashanti, Greater Accra"
+Elikplim Pharmacy Limited,5,2,3,3,2,"Greater Accra, Volta"
+Rock Chemists,5,1,3,5,0,Greater Accra
+Oakridge Pharmacy Limited,5,2,3,2,3,"Ashanti, Central"
+Pfago Chemists Limited,5,1,3,2,3,Greater Accra
+Western Pharmacy,5,1,1,3,2,Ashanti
+Pearlane Pharmacy,5,1,2,3,2,Ashanti
+Fiina Pharmacy Limited,5,1,3,2,3,Greater Accra
+Gramer Chemists,5,1,2,2,3,Western
+Verdi Pharmacy,5,1,3,4,1,Volta
+Kelmed Pharmaceuticals Limited,5,2,3,5,0,"Greater Accra, Volta"
+Fly Zipline Ghana Limited,5,4,5,5,0,"Ashanti, Eastern, Northern, Western"
+J-Rad Pharmacy,4,1,1,1,3,Greater Accra
+Interpharma Limited,4,1,1,1,3,Eastern
+Health Tower Chemist,4,1,1,0,4,Greater Accra
+Ekuus Pharmacy Limited,4,1,1,2,2,Greater Accra
+Adepharma Limited,4,2,3,1,3,"Greater Accra, Volta"
+Aid Inn Pharmacy,4,1,2,1,3,Ashanti
+The Mall Pharmacy,4,1,3,0,4,Greater Accra
+Ricomons Pharmacy Limited,4,2,4,1,3,"Ashanti, Eastern"
+Atomic Hills Pharmacy,4,1,2,2,2,Greater Accra
+Desh Chemists Limited,4,2,4,2,2,"Central, Greater Accra"
+Pida Chemist Limited,4,3,4,3,1,"Ashanti, Brong Ahafo, Western"
+Chrispharma Limited,4,1,4,4,0,Eastern
+Prime Pharmacy,4,1,2,0,4,Greater Accra
+Jucad Pharmacy,4,2,3,2,2,"Central, Greater Accra"
+Equity Pharmacy Limited,4,1,2,0,4,Greater Accra
+Mikaddo Pharmacy Limited,4,2,2,3,1,"Ashanti, Eastern"
+Six Stars Pharmacy,4,1,2,1,3,Brong Ahafo
+Nesta Chemists Limited,4,1,1,0,4,Greater Accra
+Adepa Pharmaceuticals Limited,4,1,1,2,2,Greater Accra
+Lena Pharmacy,4,2,3,0,4,"Greater Accra, Volta"
+Sebatos Pharmacy,3,2,3,2,1,"Greater Accra, Volta"
+Mek Pharmacy Limited,3,2,3,3,0,"Ashanti, Volta"
+Palace Pharmacy Limited,3,1,1,1,2,Greater Accra
+Pnt Pharmacy Limited,3,1,1,2,1,Greater Accra
+Santa Theres Pharmacy Limited,3,1,2,0,3,Greater Accra
+Pharmanova Limited,3,3,3,3,0,"Ashanti, Greater Accra, Northern"
+Danpong Pharmacy (Gh) Limited.`,3,1,2,1,2,Greater Accra
+Alpha Duo Pharmacy Limited,3,1,1,1,2,Ashanti
+Raynek Pharmacy Limited,3,1,2,0,3,Ashanti
+Alpha Delta Pharmacy,3,1,1,1,2,Greater Accra
+Luhaki Company Limited,3,1,1,0,3,Ashanti
+Big Maron Pharmacy,3,1,2,2,1,Greater Accra
+Almco Pharmacy Limited,3,1,3,1,2,Greater Accra
+Meditab Pharmacy Limited,3,1,3,0,3,Greater Accra
+Uri Pharma Limited,3,1,1,1,2,Ashanti
+Hills Pharmacy Limited,3,2,2,3,0,"Ashanti, Greater Accra"
+Jsi Pharmacy Limited,3,1,2,1,2,Ashanti
+Rany Pharmacy & Wellness Ce,3,2,2,1,2,"Ashanti, Greater Accra"
+Lloylan Pharmacy Limited,3,1,2,1,2,Greater Accra
+Ansu Memorial Pharmacy,3,1,1,0,3,Greater Accra
+Lizmok Pharmacy Limited,3,1,2,0,3,Ashanti
+Healthy Vita Pharmacy,3,2,3,0,3,"Eastern, Greater Accra"
+Lizdan Pharmacy,3,2,2,1,2,"Central, Greater Accra"
+Benjes Pharmacy,3,1,2,2,1,Western
+Vicbarns Pharmacy Limited,3,1,1,1,2,Ashanti
+Eff-Ess Pharmacy Limited,3,1,1,0,3,Western
+Humano Pharmacy Limited,3,1,2,0,3,Greater Accra
+Unichem Ghana Limited,3,3,3,3,0,"Ashanti, Northern, Western"
+Bendi Chemist Limited,3,1,1,0,3,Greater Accra
+Vital Pharmacy,3,1,1,1,2,Ashanti
+Senes Pharma Company. Limited,3,1,2,1,2,Greater Accra
+Nexto Pharmacy Limited,3,2,2,0,3,"Greater Accra, Volta"
+Biotic Pharmacy,3,1,2,1,2,Greater Accra
+J & D Pharmacy Limited,3,2,3,0,3,"Ashanti, Greater Accra"
+Topmed Pharmacy,3,2,3,1,2,"Eastern, Greater Accra"
+Habmay Pharmacy Limited,3,2,2,3,0,"Ashanti, Greater Accra"
+Suhum Providence Pharmacy,3,1,1,1,2,Eastern
+Top Pill Pharmacy Limited,3,1,1,0,3,Greater Accra
+Cedar Point Chemists Limited,3,1,2,2,1,Greater Accra
+Top In Town Pharmacy Limited,3,2,2,1,2,"Greater Accra, Volta"
+Worldwide Healthcare Limited,3,2,2,3,0,"Ashanti, Greater Accra"
+Parker Pharmacy,3,1,2,3,0,Greater Accra
+Tonya Pharmacy,3,1,1,2,1,Western
+Hale Pharmacy Limited,3,1,2,1,2,Greater Accra
+Kingsway Pharmacy Limited,3,1,1,1,2,Central
+Mauplus Pharmacy,3,1,3,0,3,Northern
+Morton Chemist Limited,3,1,2,1,2,Greater Accra
+Drugix Pharmacy,3,1,2,0,3,Greater Accra
+Rokmer Pharma Limited,3,1,2,2,1,Greater Accra
+Kofikrom Pharmacy Limited,3,2,3,3,0,"Eastern, Greater Accra"
+Roatina Pharmacy Limited,3,2,3,1,2,"Ashanti, Greater Accra"
+Roseno Pharmacy Limited,3,1,2,1,2,Eastern
+N-Geo Pharmacy,3,1,2,0,3,Greater Accra
+3J'S Pharmacy,3,3,3,2,1,"Brong Ahafo, Central, Greater Accra"
+Mycro Chemists,3,1,2,1,2,Greater Accra
+Jephpong Pharmacy,3,1,2,2,1,Western
+Aspha Pharmacy Limited,3,2,2,1,2,"Ashanti, Brong Ahafo"
+Sanor Chemists,3,1,2,3,0,Greater Accra
+Willrite Pharmacy,3,1,3,1,2,Ashanti
+Pharma Laud K. Limited,3,1,1,1,2,Ashanti
+Stereda Pharmaceuticals,3,2,3,2,1,"Central, Greater Accra"
+Apl Pharmacy Limited,3,1,2,1,2,Greater Accra
+Widama Pharmacy,3,2,2,3,0,"Central, Greater Accra"
+Opa Chemist,3,1,2,0,3,Greater Accra
+Fountain Pharmacy,2,1,2,0,2,Greater Accra
+Beach Road Pharmacy,2,1,1,2,0,Greater Accra
+Avenue Chemists,2,1,1,1,1,Greater Accra
+Radiance Pharmacy,2,1,2,0,2,Greater Accra
+Propharm Chemist Limited,2,1,1,1,1,Ashanti
+Bebal Pharmacy Limited,2,1,1,0,2,Greater Accra
+Jab Healthcare Pharmacy,2,1,1,1,1,Ashanti
+Supra Pharma Limited. (K'Si Branc,2,1,1,2,0,Ashanti
+Mawuena Pharmacy,2,1,2,1,1,Greater Accra
+Baaspharma Limited,2,1,2,2,0,Greater Accra
+Maxbet Pharmacy Limited,2,1,1,1,1,Greater Accra
+Sunview Chemist Limited,2,1,1,0,2,Greater Accra
+Odorkor Pharmacy Limited,2,1,1,2,0,Greater Accra
+Novik Pharmacy,2,1,2,0,2,Greater Accra
+Imperial Chemist Limited,2,1,1,1,1,Greater Accra
+Ofako Pharmacy Limited,2,2,2,2,0,"Central, Greater Accra"
+Delivery Chemist Limited,2,1,2,0,2,Greater Accra
+Baseline Pharmacy Limited,2,2,2,2,0,"Greater Accra, Volta"
+Atm Pharmacy Limited,2,1,1,0,2,Western
+Jaspers Pharmacy Limited,2,2,2,2,0,"Ashanti, Greater Accra"
+Telad Pharmacy,2,1,1,1,1,Greater Accra
+O'Nart Pharmacy,2,1,1,0,2,Western
+Marshall Chemist,2,1,2,0,2,Greater Accra
+Nissi Pharma Limited,2,1,2,2,0,Greater Accra
+O. K Pharmacy Limited,2,1,1,1,1,Brong Ahafo
+Betvin Pharmacy,2,1,1,1,1,Greater Accra
+Stellex Pharmacy,2,2,2,1,1,"Ashanti, Eastern"
+Marrita Pharmacy,2,1,2,0,2,Ashanti
+Baccenta Pharmacy Limited,2,1,2,0,2,Greater Accra
+Mebroni Pharmacy Limited,2,2,2,1,1,"Greater Accra, Western"
+Quick Pharmacy,2,1,1,0,2,Greater Accra
+St. Georgina Pharmacy,2,1,1,0,2,Ashanti
+Stipps Pharmacy,2,1,1,1,1,Greater Accra
+Stramark Pharmacy Limited,2,1,2,0,2,Volta
+O.B.M Pharmacy Limited,2,1,2,1,1,Greater Accra
+Beked Pharmacy,2,1,2,0,2,Ashanti
+Begoro Pharmacy,2,1,2,1,1,Eastern
+Franzwill Chemists Limited,2,1,1,0,2,Ashanti
+Base Pharmacy Limited,2,1,1,2,0,Greater Accra
+J-Mall Pharmacy Limited,2,1,2,0,2,Brong Ahafo
+St Kem Pharmacy,2,2,2,0,2,"Ashanti, Greater Accra"
+I'S And J'S Pharmacy Limited,2,1,1,0,2,Central
+Ikehorn Chemists,2,1,1,0,2,Greater Accra
+Destiny Command Chemist,2,1,2,1,1,Greater Accra
+Spring Time Pharmacy,2,1,2,0,2,Greater Accra
+Maxtak Pharmacy Limited,2,1,1,2,0,Greater Accra
+Baseline Limited,2,2,2,2,0,"Ashanti, Greater Accra"
+Hymall Pharmacy,2,2,2,0,2,"Ashanti, Greater Accra"
+Speed Pharmacy,2,1,2,1,1,Greater Accra
+Spectra Pharmacy,2,2,2,0,2,"Greater Accra, Volta"
+Oaklex Pharmacy,2,1,1,0,2,Greater Accra
+Dewland Chemist,2,1,1,0,2,Greater Accra
+Humble Mother Pharmacy Lt,2,1,1,2,0,Ashanti
+Bencyn Pharmacy,2,1,2,2,0,Upper East
+Nyaho Med. Centre Pharmacy,2,1,1,0,2,Greater Accra
+Ilee Pharmacy Limited,2,1,1,1,1,Northern
+Medaid Pharmacy,2,1,2,0,2,Greater Accra
+Benijax Pharmacy Limited,2,1,1,0,2,Greater Accra
+Numark Pharmacy,2,1,1,1,1,Brong Ahafo
+Med-Pal Chemist Limited,2,1,1,1,1,Greater Accra
+Sadas Chemists,2,1,1,0,2,Greater Accra
+Celia Pharmacy,2,1,2,0,2,Greater Accra
+Mokat Chemists Limited,2,1,1,2,0,Greater Accra
+D & G Pharmacy,2,1,2,0,2,Greater Accra
+Saferside Pharmacy,2,1,2,1,1,Greater Accra
+Safeway Chemist Limited,2,1,1,2,0,Greater Accra
+Modern Care Pharmacy,2,2,2,0,2,"Central, Greater Accra"
+Napdel Pharmacy Limited,2,1,2,0,2,Brong Ahafo
+Narhsam Pharmacy Limited,2,1,1,0,2,Greater Accra
+Habilat Pharmacy,2,2,2,2,0,"Central, Upper West"
+Habmay Pharmacy (Atonsu Br,2,1,1,1,1,Ashanti
+Hafman Pharmacy,2,1,2,1,1,Northern
+Healthview Pharmacy,2,2,2,1,1,"Central, Greater Accra"
+Minamo Pharmacy Limited,2,2,2,1,1,"Ashanti, Western"
+Dadmum Pharmacy,2,1,1,1,1,Ashanti
+Hap-Phil Chemist Limited,2,1,2,0,2,Ashanti
+Nat & Sons Pharmacy Limited,2,1,2,2,0,Central
+Dagbeneva Pharmacy Limited,2,1,2,1,1,Volta
+Midland Chemists Limited,2,1,1,2,0,Greater Accra
+Neb Pharmacy,2,1,2,0,2,Greater Accra
+Sanford World Clinic Pharma,2,2,2,0,2,"Central, Greater Accra"
+Camden Pharmacy,2,1,2,0,2,Greater Accra
+Calvary Central Pharmacy,2,1,2,0,2,Greater Accra
+Caads Pharmacy,2,1,1,1,1,Greater Accra
+C.S. Allot Pharmacy,2,1,2,0,2,Greater Accra
+Haga Pharmacy,2,1,2,0,2,Greater Accra
+Cobest Pharmacy,2,1,1,0,2,Greater Accra
+Romart Pharmacy,2,2,2,0,2,"Central, Greater Accra"
+Rockwell Pharmacy,2,1,2,0,2,Greater Accra
+Good Example Pharmacy Limited,2,1,2,2,0,Ashanti
+Goodbrand Pharmacy,2,1,1,0,2,Western
+Rosipac Pharmacy,2,1,1,1,1,Western
+Citadel Chemists (Gh) Limited,2,1,1,0,2,Greater Accra
+Gopens Pharmacy Limited,2,1,1,1,1,Ashanti
+Gn Pharmacy Limited,2,1,2,0,2,Greater Accra
+Cisant Pharmacy,2,1,1,2,0,Brong Ahafo
+Robbie'S Chemists,2,1,1,0,2,Greater Accra
+Royal Care Pharmacy Limited,2,1,2,0,2,Eastern
+Cureaid Chemist Limited,2,1,1,0,2,Greater Accra
+Christal A & B Chemist Limited,2,1,2,1,1,Ashanti
+Royal Dach Pharmacy,2,1,1,2,0,Greater Accra
+Criss Pharmacy,2,1,1,0,2,Greater Accra
+Ritjei Pharmacy,2,1,2,1,1,Ashanti
+Nad Pharmacy,2,1,1,0,2,Greater Accra
+Rite Aid Pharmacy,2,1,1,1,1,Volta
+Glojoe Pharmacy Limited,2,2,2,0,2,"Central, Greater Accra"
+Charmar Pharmacy Limited,2,1,1,0,2,Ashanti
+Rightway Pharmacy Limited,2,1,2,2,0,Ashanti
+Charget Pharmacy,2,1,1,0,2,Ashanti
+Chara Pharmacy Limited,2,1,1,0,2,Greater Accra
+Greenlight Pharmacy Limited,2,1,1,2,0,Brong Ahafo
+Chaneck Pharmacy,2,1,1,2,0,Western
+Crescent Chemist,2,1,2,1,1,Greater Accra
+Seraphim Pharmacy,2,1,2,1,1,Brong Ahafo
+Healthrite Pharmacy,2,1,1,0,2,Greater Accra
+Bn Rx Pharmacy,2,1,2,2,0,Ashanti
+Bluestar Pharmacy,2,1,1,0,2,Volta
+Bluesky Pharmacy,2,2,2,1,1,"Ashanti, Greater Accra"
+Regiben Family Pharmacy,2,1,1,1,1,Central
+Healthstar Pharmacy,2,1,2,2,0,Greater Accra
+De-Georges Pharmacy Limited,2,1,2,0,2,Greater Accra
+The Medipoint Pharmacy,2,1,2,0,2,Greater Accra
+Healthwatch Pharmacy,2,1,1,1,1,Greater Accra
+Gb Pharma (Gh) Limited,2,2,2,2,0,"Ashanti, Northern"
+Shalina Healthcare Ghana Lt,2,2,2,2,0,"Ashanti, Greater Accra"
+Revman Pharmacy,2,1,1,0,2,Greater Accra
+Sherag Pharmacy Limited,2,1,1,0,2,Ashanti
+Heightspharm Pharmacy,2,1,1,0,2,Greater Accra
+Helen Pharmacy Limited,2,1,1,2,0,Brong Ahafo
+Helijons Pharmacy,2,1,2,0,2,Greater Accra
+Hem Pharma Services Limited,2,1,1,1,1,Greater Accra
+Simart Pharmaceuticals,2,1,1,1,1,Greater Accra
+Simart Pharmacy,2,1,2,0,2,Greater Accra
+Medknight Pharmacy Limited,2,1,2,1,1,Central
+Simpson Pharmacy,2,2,2,0,2,"Central, Greater Accra"
+Decent Pharmacy,2,2,2,1,1,"Greater Accra, Northern"
+Skad-D Pharmacy Limited,2,1,1,1,1,Brong Ahafo
+Rayoni Pharmacy Limited,2,1,2,0,2,Greater Accra
+Beybee Pharmacy Limited,2,1,2,0,2,Greater Accra
+Shalina Pharmacy Ghana Limi,2,2,2,2,0,"Northern, Western"
+Health Base Pharmacy,2,1,1,0,2,Greater Accra
+Neek Royale Pharmacy,2,1,2,0,2,Greater Accra
+Dannipharma Limited,2,1,1,2,0,Ashanti
+Saqs Pharmacy (Asokwa Bran,2,1,1,0,2,Ashanti
+Saqs Pharmacy Limited,2,1,1,1,1,Ashanti
+Merkot Pharmacy Company. Limited,2,1,2,1,1,Central
+Merkot Pharmacy,2,1,2,1,1,Central
+Health Corner Pharmacy Limited,2,1,2,1,1,Greater Accra
+Bubune Pharmacy,2,2,2,1,1,"Greater Accra, Volta"
+Bubuashie Control Pharmacy,2,1,1,1,1,Greater Accra
+Meraki Pharmacy Limited,2,1,1,0,2,Greater Accra
+Sawaba Pharmacy,2,1,1,0,2,Ashanti
+Septal Chemists,2,1,1,1,1,Greater Accra
+Nerjereu Pharmacy Limited,2,1,1,0,2,Greater Accra
+Geovikes Pharmacy Limited,2,1,2,1,1,Central
+Renerve Pharmacy,2,1,2,0,2,Greater Accra
+Meldin Chemist Limited,2,1,1,1,1,Ashanti
+Renada Chemist,2,1,2,1,1,Central
+Sebatos Pharmacy (Hohoe Br,2,1,1,0,2,Volta
+Georuth Pharmacy,2,1,2,1,1,Ashanti
+Medsure Pharmacy,2,1,1,0,2,Ashanti
+Geoka Pharmacy Limited,2,2,2,1,1,"Eastern, Greater Accra"
+Healthline Pharmacy,2,2,2,0,2,"Eastern, Greater Accra"
+Healthmark Pharmacy,2,1,2,0,2,Greater Accra
+Senes Pharmacy,2,1,1,1,1,Greater Accra
+Senti Chemist Limited,2,1,1,1,1,Brong Ahafo
+Nelcy Pharmacy,2,1,2,2,0,Western
+Wisely Pharmacy,2,1,2,0,2,Central
+Lemish Pharmacy,2,1,1,2,0,Greater Accra
+Altinatet Pharmacy,2,1,2,0,2,Upper West
+Alsons Pharmacy Limited,2,1,2,0,2,Greater Accra
+Alpha-Beta Pharmacy,2,1,2,0,2,Greater Accra
+Juicy Pharmacy Limited,2,1,1,0,2,Greater Accra
+Wimpey Chemists Limited,2,1,1,0,2,Ashanti
+Felbet Pharmacy,2,1,2,0,2,Greater Accra
+Alpat Pharmacy,2,2,2,0,2,"Central, Volta"
+Actikid Pharmacy,2,1,2,1,1,Greater Accra
+Amptess Pharmacy Limited,2,1,2,1,1,Ashanti
+Acts Pharmacy,2,1,2,0,2,Greater Accra
+Adalits Pharmacy,2,1,1,0,2,Greater Accra
+Fb Ultimate Pharmacy,2,1,1,2,0,Upper East
+Oty'S Pharmacy,2,1,2,1,1,Greater Accra
+Vanora Pharmacy,2,1,1,0,2,Greater Accra
+Adams Pharmacy,2,1,2,1,1,Ashanti
+Juliponia Pharmacy,2,1,1,2,0,Ashanti
+Alliance Pharmacy Limited,2,1,2,0,2,Northern
+Alldrugs Pharmacy Limited,2,1,2,1,1,Greater Accra
+Julitet Pharmacy,2,1,1,0,2,Greater Accra
+Juliag Chemist,2,1,1,0,2,Ashanti
+Xerion Chemist Limited,2,1,2,0,2,Northern
+Amprapharma Company Limit,2,1,2,0,2,Ashanti
+Kingstreet Pharmacy Limited,2,1,1,1,1,Greater Accra
+X-Perts Pharmacy,2,1,2,0,2,Greater Accra
+Enoapa Pharmacy Limited,2,1,1,0,2,Greater Accra
+Fidel Pharmacy,2,1,1,1,1,Greater Accra
+Edd Eddy Pharmacy,2,1,2,0,2,Greater Accra
+Kings & Royals Pharmacy. Limited,2,1,2,0,2,Ashanti
+Lynsam Chemist Limited,2,1,2,1,1,Greater Accra
+Ph Anford Chemist Limited,2,1,2,0,2,Greater Accra
+Alton Pharmacy Limited,2,1,2,1,1,Greater Accra
+Endswell Pharmacy,2,1,1,1,1,Upper East
+Amarpharma Limited,2,1,1,2,0,Central
+Pillmart Pharmacy,2,1,1,0,2,Ashanti
+Abyak Pharma Limited,2,1,1,1,1,Ashanti
+Eden Royal Pharmacy,2,1,1,0,2,Greater Accra
+Woluwie Pharmacy Limited,2,2,2,0,2,"Eastern, Greater Accra"
+Amanfro Pharmacy,2,1,1,1,1,Greater Accra
+Excora Pharmacy,2,1,2,2,0,Western
+Leetonia Pharmacy,2,1,2,1,1,Greater Accra
+Ju-Beth Pharmacy,2,1,2,1,1,Greater Accra
+Pharma George Chemist,2,1,1,0,2,Greater Accra
+Unique Aid Pharmacy,2,1,2,2,0,Greater Accra
+Exxell Pharma Limited,2,1,1,0,2,Greater Accra
+Adiyiah Pharmacy,2,1,1,1,1,Ashanti
+Westlink Chemist Limited,2,1,2,0,2,Western
+Aide Chemist Limited,2,2,2,0,2,"Eastern, Greater Accra"
+Eye Of God Pharmacy,2,2,2,1,1,"Ashanti, Upper East"
+Levon Pharmacy,2,1,1,2,0,Greater Accra
+Pharmageorge Chemist Limited,2,1,2,0,2,Greater Accra
+Lifepoint Pharmacy,2,1,1,0,2,Greater Accra
+West Point Chemist,2,1,1,0,2,Greater Accra
+Aduanaba Pharmacy Limited,2,1,2,2,0,Brong Ahafo
+Verjo Chemist Limited,2,1,1,1,1,Ashanti
+Wagga Care Pharmacy,2,1,1,0,2,Greater Accra
+Walgreens Pharmacy Limited,2,1,2,2,0,Eastern
+Lib Pharmacy,2,1,1,0,2,Greater Accra
+Elim Pharmacy,2,1,2,0,2,Ashanti
+Elinda Pharmacy Company. Limited,2,1,1,0,2,Greater Accra
+Pharmatrust Limited,2,2,2,2,0,"Central, Greater Accra"
+Wellmark Pharmacy Limited,2,1,1,2,0,Greater Accra
+Palm-Aid Pharmacy,2,1,2,0,2,Greater Accra
+Pamjoson Pharmacy,2,1,1,0,2,Ashanti
+Kekule Pharmacy,2,1,1,2,0,Western
+Kendicks Pharmacy,2,1,2,1,1,Western
+Lloyds Pharmacy,2,2,2,1,1,"Brong Ahafo, Greater Accra"
+Express Care Pharmacy Limited,2,1,2,0,2,Greater Accra
+Kezwell Pharmacy Limited,2,1,2,1,1,Greater Accra
+Alfies Pharmacy Limited,2,1,1,2,0,Greater Accra
+Edzieba Pharmacy,2,1,2,1,1,Central
+Adastraf Pharmacy Limited,2,1,2,0,2,Upper East
+Paramedica Services Limited,2,1,2,1,1,Greater Accra
+Mary De Rose Pharmacy Limited,2,1,1,2,0,Greater Accra
+Listings Pharmacy,2,1,1,0,2,Greater Accra
+Lenus Pharma Limited,2,1,1,0,2,Greater Accra
+Fakstins Pharmacy,2,1,1,1,1,Greater Accra
+Family Wise Pharmacy,2,1,2,0,2,Eastern
+Phersons Pharmacy,2,1,2,0,2,Greater Accra
+Eklesia Pharmacy,2,1,2,2,0,Central
+Lim Pharma Limited,2,2,2,1,1,"Eastern, Greater Accra"
+Likem Pharmacy,2,1,2,0,2,Volta
+Kak Pharmacy,2,1,2,0,2,Ashanti
+Leons Chemist Limited,2,1,2,0,2,Greater Accra
+Kam-Aid Pharmacy Limited,2,1,2,0,2,Greater Accra
+Light Pharma Limited,2,1,1,0,2,Greater Accra
+Addpharma Gh. Limited,2,1,2,0,2,Greater Accra
+Pharmacy De Pabloe Limited,2,1,1,1,1,Central
+Familymeds Pharmacy Limited,2,1,2,0,2,Greater Accra
+Ascot Pharmacy,2,2,2,2,0,"Greater Accra, Western"
+Tobinco Pharmaceuticals Lim,2,1,2,2,0,Eastern
+Asapharma Limited,2,1,2,1,1,Ashanti
+Asanco Pharmacy,2,1,1,0,2,Greater Accra
+Asanbeck Pharmacy,2,1,2,0,2,Greater Accra
+Toffey Pharmacy,2,2,2,1,1,"Greater Accra, Western"
+Tohaba Pharmaceuticals Limited,2,2,2,0,2,"Brong Ahafo, Greater Accra"
+Euretom Pharmacy,2,1,1,0,2,Greater Accra
+Maliko Pharma Limited,2,1,1,0,2,Greater Accra
+Opac Pharmacy Limited,2,1,1,0,2,Northern
+Perfbaab Pharmacy Limited,2,1,1,2,0,Greater Accra
+Jilis Pharmacy,2,1,2,0,2,Greater Accra
+Zip Pharmacy,2,1,1,0,2,Eastern
+Mal-Titi Chemists,2,1,1,1,1,Greater Accra
+Evanex Pharmacy,2,1,2,2,0,Western
+Jim-Beck Pharmacy,2,1,1,0,2,Greater Accra
+One Phamily Pharmacy,2,2,2,2,0,"Greater Accra, Volta"
+Trafalgar Gate Pharmacy,2,1,1,2,0,Volta
+Eric Vee Pharmacy,2,1,2,2,0,Ashanti
+Malb-Pharma Limited,2,1,2,1,1,Greater Accra
+Espat Pharmacy,2,1,1,1,1,Greater Accra
+Fmms Pharmacy,2,1,1,0,2,Greater Accra
+Kumo Pharmacy,2,2,2,2,0,"Upper East, Upper West"
+Asomafo Pharmacy,2,1,1,1,1,Ashanti
+Third Gate Pharmacy,2,1,1,0,2,Greater Accra
+Ethical Pharmaceuticals Limited,2,1,2,1,1,Northern
+Kraspect Pharmacy,2,1,1,1,1,Western
+Kosak Pharmacy Limited,2,1,1,1,1,Greater Accra
+Jeksa Pharmacy Limited,2,1,1,0,2,Greater Accra
+Tobinco Pharmaceuticals,2,2,2,2,0,"Greater Accra, Northern"
+Maple Leaf Chemist,2,2,2,1,1,"Central, Greater Accra"
+Ashbys Limited,2,1,1,0,2,Ashanti
+Flexsta Pharmacy Limited,2,1,2,0,2,Greater Accra
+Jenark Pharmacy,2,2,2,2,0,"Brong Ahafo, Greater Accra"
+Ernest Chemists Limited.(Dzorwul,2,1,1,1,1,Greater Accra
+Flash Point Pharmacy,2,1,1,0,2,Ashanti
+Kojach Limited,2,2,2,2,0,"Ashanti, Greater Accra"
+Eugenex Pharmacy,2,1,2,0,2,Eastern
+Erndom Chemist,2,1,1,1,1,Ashanti
+72Nd Pharmacy Limited,2,2,2,1,1,"Ashanti, Volta"
+Ashgin Pharmacy,2,1,1,0,2,Central
+Andyfaith Pharmacy,2,1,2,1,1,Western
+Jofas Pharmacy,2,2,2,1,1,"Ashanti, Western"
+Poklina Pharmacy Limited,2,1,2,0,2,Ashanti
+Ma Havilah Chemist Limited,2,1,1,0,2,Greater Accra
+East Cantonment Pharmacy,2,1,1,1,1,Western
+Y & J Pharmaceuticals,2,1,1,2,0,Greater Accra
+Pokuase Pharmacy,2,1,1,0,2,Greater Accra
+Firdaws Pharmacy,2,1,2,2,0,Greater Accra
+Jojo Pharmacy,2,1,1,1,1,Brong Ahafo
+Mack-Hubert Pharmacy Limited,2,1,1,2,0,Brong Ahafo
+Partners Health Services,2,1,1,2,0,Ashanti
+Jonny-Bow Pharmacy Limited,2,1,1,0,2,Greater Accra
+Abbypharma Limited,2,1,1,0,2,Greater Accra
+Klins Pharmacy,2,1,1,1,1,Central
+Kisal Pharmacy,2,2,2,1,1,"Ashanti, Brong Ahafo"
+Magold Pharmacy,2,1,1,0,2,Greater Accra
+Eric Chemists,2,2,2,1,1,"Eastern, Greater Accra"
+Maalyiri Pharmacy,2,1,2,1,1,Upper West
+Wonowana Pharmacy,2,1,1,1,1,Upper West
+Klad Pharmacy Limited,2,1,1,0,2,Greater Accra
+Anstand Chemist Limited,2,2,2,2,0,"Central, Eastern"

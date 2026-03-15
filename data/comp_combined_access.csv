@@ -1,0 +1,90 @@
+pharmacy_name,fda_name,matched_tokens,pharmacy_outlets,pharmacy_regions,pharmacy_mmdas,fda_total_products,fda_drug_products,fda_food_products,combined_score
+Ernest Chemists Limited,"Ernest Chemists Limited., Accra","chemists, ernest",60,8,16,111,1,110,19.4
+East Cantonments Pharmacy,East Cantonments Pharmacy Limited No 1 Omega Drive Adabraka Accra,"cantonments, east",18,3,7,4,1,0,4.74
+Rokmer Pharma Limited,Rokmer Pharma Limited,"pharma, rokmer",3,1,2,23,23,0,4.41
+Care View Pharmacy Limited,Care View Pharmacy Limited,"care, view",6,1,4,8,8,0,4.28
+Baseline Pharmaceuticals Limited,"Baseline Pharmaceuticals Limited. Opposite The Aayalolo Bus Terminal Near Cocoa House, Tudu","baseline, pharmaceuticals",8,7,7,5,5,0,3.94
+Cedar Point Chemists Limited,Cedar Point Chemist,"cedar, point",3,1,2,15,15,0,3.84
+Hem Pharma Services Limited,Novartis Pharma Services,"pharma, services",2,1,1,30,29,0,3.77
+Senes Pharma Company. Limited,"Senes Pharma Co. Limited Michel Camp Road, Cam 2122 Tema/","pharma, senes",3,1,2,13,13,0,3.66
+Tobinco Pharmaceuticals,"Tobinco Pharmaceuticals Limited - P. O. Box Gp 13808, Accra-North","pharmaceuticals, tobinco",2,2,2,25,24,0,3.58
+Mokat Chemists Limited,Mokat Chemists Limited P. O. Box Ct,"chemists, mokat",2,1,1,24,0,0,3.54
+Entrance Pharmaceuticals,Entrance Pharmaceuticals & Research Centre,"entrance, pharmaceuticals",1,1,1,109,102,0,3.26
+Eskay Therapeutics Limited,Eskay Therapeutics Limited,"eskay, therapeutics",1,1,1,90,90,0,3.13
+Centillion Pharma Limited,Centillion Pharma Limited,"centillion, pharma",1,1,1,79,79,0,3.04
+Royal Dach Pharmacy,Royal Dach Pharmaceuticals,"dach, royal",2,1,1,13,13,0,2.9
+Mal-Titi Chemists,Mal Titi Chemists Limited,"chemists, titi",2,1,1,12,12,0,2.82
+Phyto-Riker,Phyto-Riker,"phyto, riker",1,1,1,57,54,0,2.81
+Abyak Pharma Limited,Abyak Pharma Limited,"abyak, pharma",2,1,1,10,10,0,2.63
+Queen Street Pharmacy Limited,"Exeter Pharmaceuticals, Queensgate House 48, Queen Street Exeter Devon Ex43Sr United Kingdom","queen, street",1,1,1,40,39,0,2.57
+Trade Winds Chemist Limited,Trade Winds Chemist Limited,"trade, winds",1,1,1,38,37,0,2.54
+Stereda Pharmaceuticals,Stereda Pharmaceuticals Limited,"pharmaceuticals, stereda",3,2,3,5,5,0,2.48
+Dannex Ayrton Starwin Plc,Dannex Ayrton Starwin,"ayrton, dannex, starwin",1,1,1,33,32,0,2.44
+Letap Pharmaceuticals,Letap Pharmaceuticals Limited,"letap, pharmaceuticals",1,1,1,32,31,0,2.42
+Sna Pharma Services Limited,Novartis Pharma Services,"pharma, services",1,1,1,30,29,0,2.38
+House Of Providence Pharma,"All Pharma Limited - P. O Box 1407 Reinzu House Off Mission Street Osu, Ghana","house, pharma",1,1,1,22,22,0,2.17
+Supra Pharma Limited,Supra Pharma Limited,"pharma, supra",2,1,1,6,4,0,2.14
+Yogi Pharmaceuticals Limited,Yogi Pharmaceuticals Limited - P. O. Box An 8324 Accra North Ghana,"pharmaceuticals, yogi",1,1,1,18,18,0,2.04
+Intravenous Infusions Limited,Intravenous Infusions Limited,"infusions, intravenous",1,1,1,17,17,0,2.0
+Yellow And Orange Pharmac,Yellow And Orange Pharmacy Limited,"orange, yellow",1,1,1,17,17,0,2.0
+Good Example Pharmacy Limited,Good Example Pharmacy Limited,"example, good",2,1,2,5,5,0,1.97
+Bediako Marketing Services,"Stedak Marketing Services., Accra","marketing, services",1,1,1,16,0,16,1.96
+Asylum Down Pharmacy,"Renie Chemist Limited - 36, Odanata Street, Asylum Down, Accra","asylum, down",1,1,1,15,15,0,1.92
+Atlantic Life Sciences,"Indus Life Sciences Private Limited , No 24 1 Subramanian Street 600 018, Abhiramapuram Chennai Tamil Nadu,India","life, sciences",1,1,1,13,13,0,1.83
+Camp Road Pharmacy Limited,"Senes Pharma Co. Limited Michel Camp Road, Cam 2122 Tema/","camp, road",1,1,1,13,13,0,1.83
+Aspee Pharmaceuticals Limited,Aspee Pharmaceuticals Box 201 Ejisu Ashanti Region,"aspee, pharmaceuticals",1,1,1,12,10,0,1.78
+Amponsah-Effah Pharmaceut,Amponsah Effah Pharmaceuticals Limited P. O. Box,"amponsah, effah",1,1,1,12,12,0,1.78
+Nissi Pharma Limited,Nissi Pharma Limited,"nissi, pharma",2,1,2,4,4,0,1.77
+Adepa Pharmaceuticals Limited,Adepa Pharmaceuticals Limited,"adepa, pharmaceuticals",4,1,1,2,2,0,1.77
+Korlyns Pharmaceuticals Limited,Korlyns Pharmaceuticals,"korlyns, pharmaceuticals",1,1,1,11,11,0,1.72
+Delma Pharma Limited,Delma Pharma Limited,"delma, pharma",1,1,1,10,10,0,1.66
+Menzbek Africa Pharmacy,Menzbek Africa Co Limited,"africa, menzbek",1,1,1,10,10,0,1.66
+Life-Link Pharmacy,"Ashish Life Sciences Pvt 213 Plaza New Link Road Andheri-Mumbai 400053-Maharashtra, India","life, link",1,1,1,9,4,0,1.6
+West Legon Comm. Pharmacy,Asaaba Naturalsge-328-1083West Legon,"legon, west",1,1,1,8,0,0,1.52
+Kent Pharma Limited,"Kent Pharma Limited 22 Red Okai Street Kingsby Road Near Kingsby Hotel-New Achimota Accra,Ghana","kent, pharma",1,1,1,8,8,0,1.52
+Aviation Road Pharmacy,Pfizer Specialities Ghana Limited . C/O Iqvia 19 Aviation Road. Airport Residential,"aviation, road",1,1,1,7,7,0,1.44
+East Airport Pharmacy,"A Sarps Pharmacy And Cosmetics Limited, East Airport ,Accra-Ghana","airport, east",1,1,1,7,7,0,1.44
+Lucky Development Pharmacy,Lucky Development Limited,"development, lucky",1,1,1,7,7,0,1.44
+First Class Pharmacy,"First Class Groceries Ent., Accra","class, first",1,1,1,6,0,6,1.35
+Omega Meyer Gh. Limited,Omega Meyer Gh Limited,"meyer, omega",1,1,1,5,5,0,1.24
+Gokals - Laborex Limited,Gokals-Laborex,"gokals, laborex",1,1,1,5,4,0,1.24
+Accra Medical Centre Pharma,Neo Pharma Centre Limited,"centre, pharma",1,1,1,5,5,0,1.24
+Ridge Medical Centre Pharma,Neo Pharma Centre Limited,"centre, pharma",1,1,1,5,5,0,1.24
+Kama Industries Limited,Kama Industries Limited,"industries, kama",1,1,1,5,5,0,1.24
+East Cantonments P'Cy,East Cantonments Pharmacy Limited No 1 Omega Drive Adabraka Accra,"cantonments, east",1,1,1,4,1,0,1.12
+Astra Investments Limited,Astra Investments Limited,"astra, investments",1,1,1,4,4,0,1.12
+Moon Pharma Ghana Limited,Moon Pharma Ghana Limited Moon P O Box An 8384 Accra-North,"moon, pharma",1,1,1,4,3,0,1.12
+East Cantonments Pharmact,East Cantonments Pharmacy Limited No 1 Omega Drive Adabraka Accra,"cantonments, east",1,1,1,4,1,0,1.12
+Mega Lifescience Gh.Limited,Mega Lifescience Pty Limited,"lifescience, mega",1,1,1,3,3,0,0.96
+Great Odum Pharmacy Limite,Great Odum Company Limited,"great, odum",1,1,1,2,2,0,0.76
+Happy Life Pharmacy Limited,"Happy Life Food Ventures, C/R","happy, life",1,1,1,2,0,2,0.76
+Amponsah-Efah Pharmaceuti,"Amponsah-Efah Pharmaceuticals Limited,A/R","amponsah, efah",1,1,1,2,1,1,0.76
+Destiny Command Chemist,Destiny Command Logistics Limited. Accra G/R,"command, destiny",2,1,2,1,0,1,0.76
+Beach Road Pharmacy,"My Maa Foods Enterprise, Beach Road, Q1 Anita Mensah St. Ws-347-7336, W/R","beach, road",2,1,1,1,0,1,0.76
+Mayson Pharmaceuticals Limited,"Mayson Pharmaceuticals Limited - Achimota Mile-7 Roundabout, Accra","mayson, pharmaceuticals",1,1,1,2,2,0,0.76
+Tridem Pharma Ghana Limited,Tridem Pharma Ghana Limited - 66/C Nii Bonnie Crescent Dzorwulu Accra,"pharma, tridem",1,1,1,2,1,0,0.76
+Pills & Tabs Pharmacy,Pills And Tabs Pharmacy Limited - Plot No,"pills, tabs",1,1,1,2,2,0,0.76
+Kripa Pharma Limited,Kripa Pharma Limited,"kripa, pharma",1,1,1,2,2,0,0.76
+Asterisk Lifesciences,Asterisk Lifesciences,"asterisk, lifesciences",1,1,1,2,2,0,0.76
+Sterling Pharmaceuticals Limited,Sterling Pharmaceuticals Limited,"pharmaceuticals, sterling",1,1,1,2,2,0,0.76
+Remedy Pharma Limited,Remedy Pharma,"pharma, remedy",1,1,1,2,2,0,0.76
+Samsed Medicals & Healthcar,Samsed Medicals And Healthcare Limited,"medicals, samsed",1,1,1,2,2,0,0.76
+Care Plus Pharmacy Limited,"Care Plus Pharmacy Limited - Plot No. 7 North Patsi, Kumasi","care, plus",1,1,1,2,2,0,0.76
+Roche Products Ghana Limited,Roche Products Ghana Limited,"products, roche",1,1,1,2,2,0,0.76
+Cape Coast Pharmacy,"Abok Spices, Cape Coast, C/R","cape, coast",1,1,1,2,0,2,0.76
+Novomed Pharma,"Novomed Pharma House No. 1, Dede Adim Street, Galilee Junction, Ablekuma","novomed, pharma",1,1,1,1,1,0,0.48
+Omer Investments Limited,Omer Investments Limited,"investments, omer",1,1,1,1,1,0,0.48
+Kydes Pharmaceuticals Limited,Kydes Pharmaceuticals Llc University Of Maryland Baltimore County Research & Technology Park,"kydes, pharmaceuticals",1,1,1,1,1,0,0.48
+Darose Pharmaceuticals,Darose Pharmaceuticals Limited,"darose, pharmaceuticals",1,1,1,1,1,0,0.48
+Alpha Duo Pharma,Alpha Duo Pharma Limited,"alpha, pharma",1,1,1,1,1,0,0.48
+Staraid Care Limited,Staraid Care Limited,"care, staraid",1,1,1,1,1,0,0.48
+Zutron Pharmaceuticals Limited,Zutron Pharmaceuticals Limited,"pharmaceuticals, zutron",1,1,1,1,1,0,0.48
+Royal Charisma Pharmacy Limited,Royal Charisma Pharmacy,"charisma, royal",1,1,1,1,1,0,0.48
+Three Brothers Pharmacy,Three Brothers Herbal Centre,"brothers, three",1,1,1,1,1,0,0.48
+Surgecare & Pharma Limited,Surgecare Pharma Limited,"pharma, surgecare",1,1,1,1,1,0,0.48
+Boundary Road Pharmacy,Zutron Pharmaceuticals Limited 100 Boundary Road Ogbojo East Legon,"boundary, road",1,1,1,1,1,0,0.48
+Burma Camp Pharmacy Limite,"Jamang Nala Limited, Burma Camp, Accra","burma, camp",1,1,1,1,0,1,0.48
+K.Somuah & Sons Pharmacy,"K Somuah And Sons, Wiafco House, Okaishie, Accra","somuah, sons",1,1,1,1,1,0,0.48
+J.M. Addo & Sons Limited,"J.M. Addo & Sons Pharmacy Limited P. O. Box 1943 Accra, Ghana","addo, sons",1,1,1,1,1,0,0.48
+Emery Sante Pharmacy,Emery Sante Limited - 34 Lartebiokorshie Road,"emery, sante",1,1,1,1,1,0,0.48
+Fresh Spring Chemists Limited,"Spring Fresh-Ripples, Accra","fresh, spring",1,1,1,1,0,1,0.48
