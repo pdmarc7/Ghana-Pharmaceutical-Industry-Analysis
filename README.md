@@ -111,7 +111,7 @@ Each analytical section produces:
 
 This repository supports a research paper currently under preparation. A formal citation will be added upon publication. In the interim, please cite the repository directly:
 
-> Maerean, P.D. (2025). *Ghana Pharmaceutical Industry Analysis* [Code repository]. GitHub. https://github.com/pdmarc7/Ghana-Pharmaceutical-Industry-Analysis
+> Marcells, P.D. (2026). *Ghana Pharmaceutical Industry Analysis* [Code repository]. GitHub. https://github.com/pdmarc7/Ghana-Pharmaceutical-Industry-Analysis
 
 ---
 
